@@ -29,10 +29,10 @@ NavigateQC is an interactive navigating app on-compus that facilitate students t
 
 **Required Must-have Stories**
 
-* User will have a main home page with an interactive map
-* User will have a search bar to look for the corresponding building
-* Settings (Accesibility, Notification, General, etc.)
-* User check-in page for all buidings. 
+   -  [x] User will have a main home page with an interactive map
+   -  [ ] User will have a search bar to look for the corresponding building
+   -  [ ] Settings (Accesibility, Notification, General, etc.)
+   -  [x] User check-in page for all buidings. 
 
 **Optional Nice-to-have Stories**
 
@@ -65,13 +65,28 @@ NavigateQC is an interactive navigating app on-compus that facilitate students t
 * Index page -> It has list of all the buildings on-campus. If user click on building name, it will give an option to see building occupancy status as well as option to route to that particular buiding.
 * Profile -> Account overview with text fields such as Name, Major and Year (Frehmen, Sophomore, Jr. and Sr.)
 
+Milestone Deliverables
+
+- [x]Updated status of issues in Project board (2pts)
+
+- [x]Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
+
+- [x]Completed user stories checked-off in README (2pts)
+
+- [x]Gifs created to show build progress and added to README (3pts)
 
 
 ### [BONUS] Digital Wireframes & Mockups
 
-
-
-
 https://user-images.githubusercontent.com/47941415/139783884-2b254752-72de-495e-a1c4-477efe3d70e4.mov
+
+### UPDATED GIFS
+
+<img src="card_view.gif" width="300" height="600">
+
+
+
+
+https://user-images.githubusercontent.com/47941415/141918759-b01025da-3691-4d1c-a2c5-2832df8cad19.mov
 
 
