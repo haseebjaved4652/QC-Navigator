@@ -13,6 +13,8 @@ class ViewController: UIViewController, UISearchBarDelegate {
    
     @IBAction func searchBtn(_ sender: Any) {
         print{"hello"}
+        print{"hello2"}
+
         let searchController = UISearchController(searchResultsController:  nil)
         searchController.searchBar.delegate = self
         present(searchController, animated: true, completion: nil)
