@@ -65,11 +65,22 @@ NavigateQC is an interactive navigating app on-compus that facilitate students t
 * Index page -> It has list of all the buildings on-campus. If user click on building name, it will give an option to see building occupancy status as well as option to route to that particular buiding.
 * Profile -> Account overview with text fields such as Name, Major and Year (Frehmen, Sophomore, Jr. and Sr.)
 
+Milestone Deliverables
 
+XUpdated status of issues in Project board (2pts)
+XSprint planned for next week (Issues created, assigned & added to project board) (3pts)
+XCompleted user stories checked-off in README (2pts)
+XGifs created to show build progress and added to README (3pts)
 
 ### [BONUS] Digital Wireframes & Mockups
 
 https://user-images.githubusercontent.com/47941415/139783884-2b254752-72de-495e-a1c4-477efe3d70e4.mov
+
+
+
+https://user-images.githubusercontent.com/47941415/141915006-7285cdc8-abb8-4cc1-8379-9a0ee90c16ff.mov
+
+
 
 ### UPDATED GIFS
 
