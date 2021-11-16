@@ -29,10 +29,10 @@ NavigateQC is an interactive navigating app on-compus that facilitate students t
 
 **Required Must-have Stories**
 
-[x] User will have a main home page with an interactive map
-* User will have a search bar to look for the corresponding building
-* Settings (Accesibility, Notification, General, etc.)
-[x] User check-in page for all buidings. 
+   -  [x] User will have a main home page with an interactive map
+   -  [ ] User will have a search bar to look for the corresponding building
+   -  [ ] Settings (Accesibility, Notification, General, etc.)
+   -  [x] User check-in page for all buidings. 
 
 **Optional Nice-to-have Stories**
 
