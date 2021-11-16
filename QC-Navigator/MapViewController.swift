@@ -10,8 +10,9 @@ import MapKit
 
 class ViewController: UIViewController, UISearchBarDelegate {
 
-    
+   
     @IBAction func searchBtn(_ sender: Any) {
+        print{"hello"}
         let searchController = UISearchController(searchResultsController:  nil)
         searchController.searchBar.delegate = self
         present(searchController, animated: true, completion: nil)
