@@ -82,7 +82,7 @@ https://user-images.githubusercontent.com/47941415/139783884-2b254752-72de-495e-
 
 ### UPDATED GIFS
 
-<img src="card_view.gif" width="300" height="600">
+<img src="/gifs/card_view.gif" width="300" height="600">
 
 
 
