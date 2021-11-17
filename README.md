@@ -80,13 +80,16 @@ Milestone Deliverables
 
 https://user-images.githubusercontent.com/47941415/139783884-2b254752-72de-495e-a1c4-477efe3d70e4.mov
 
+---
+
 ### UPDATED GIFS
 
-<img src="/gifs/card_view.gif" width="300" height="600">
+### HOME PAGE
+<img src="/gifs/card_view.gif" width="300" height="600"> <img src="/gifs/card_view2.gif" width="300" height="600"> 
 
 
 
-
+### MAP
 https://user-images.githubusercontent.com/47941415/141918759-b01025da-3691-4d1c-a2c5-2832df8cad19.mov
 
 
