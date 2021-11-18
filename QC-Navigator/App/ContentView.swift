@@ -8,14 +8,27 @@
 import SwiftUI
 
 struct ContentView: View {
+    // MARK: - PROPERTIES
+    
+    var buildings: [Navigator] = navigatorData
+    
+    // MARK: - BODY
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        NavigationView {
+            List {
+                ForEach(buildings) { item in
+                    NavigatorRowView(building: item)
+                        .padding(.vertical, 4)
+                }
+            }
+            .navigationTitle("QC Buildings")
+        } //: NAVIGATION
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ContentView(buildings: navigatorData)
+            .previewDevice("iPhone 11")
     }
 }
