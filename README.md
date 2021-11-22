@@ -67,13 +67,13 @@ NavigateQC is an interactive navigating app on-compus that facilitate students t
 
 Milestone Deliverables
 
-- [x]Updated status of issues in Project board (2pts)
+- [x] Updated status of issues in Project board (2pts)
 
-- [x]Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
+- [x] Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
 
-- [x]Completed user stories checked-off in README (2pts)
+- [x] Completed user stories checked-off in README (2pts)
 
-- [x]Gifs created to show build progress and added to README (3pts)
+- [x] Gifs created to show build progress and added to README (3pts)
 
 
 ### [BONUS] Digital Wireframes & Mockups
