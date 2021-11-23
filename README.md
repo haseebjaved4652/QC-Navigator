@@ -80,7 +80,7 @@ Milestone Deliverables
 
 ### Walkthrough 
 
-<img src='https://recordit.co/zpgCV0uKgg' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/zpgCV0uKgg.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 
 ### [BONUS] Digital Wireframes & Mockups
