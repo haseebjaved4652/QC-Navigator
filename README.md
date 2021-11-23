@@ -33,6 +33,7 @@ NavigateQC is an interactive navigating app on-compus that facilitate students t
    -  [ ] User will have a search bar to look for the corresponding building
    -  [ ] Settings (Accesibility, Notification, General, etc.)
    -  [x] User check-in page for all buidings. 
+   -  [x] User integrated Google Map API 
 
 **Optional Nice-to-have Stories**
 
@@ -74,6 +75,12 @@ Milestone Deliverables
 - [x]Completed user stories checked-off in README (2pts)
 
 - [x]Gifs created to show build progress and added to README (3pts)
+
+- [x] Added Markers for each building on Campus
+
+### Walkthrough 
+
+<img src='https://recordit.co/zpgCV0uKgg' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 
 ### [BONUS] Digital Wireframes & Mockups
