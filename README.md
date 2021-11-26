@@ -84,6 +84,10 @@ https://user-images.githubusercontent.com/47941415/139783884-2b254752-72de-495e-
 
 ### UPDATED GIFS
 
+### BUILDING DETAIL
+
+<img src="/gifs/building_detail.gif" width="300" height="600">
+
 ### LIST OF BUILDINGS
 
 <img src="/gifs/building_list.gif" width="300" height="600">
