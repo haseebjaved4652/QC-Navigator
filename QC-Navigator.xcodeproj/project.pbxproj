@@ -17,6 +17,10 @@
 		0FD79DE427434EE700E5A524 /* NavigatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD79DE327434EE700E5A524 /* NavigatorModel.swift */; };
 		0FD79DE727434FD800E5A524 /* NavigatorData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD79DE627434FD800E5A524 /* NavigatorData.swift */; };
 		0FF8D8F52746A278007267E2 /* NavigatorRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF8D8F42746A278007267E2 /* NavigatorRowView.swift */; };
+		0FFAE5FC275141800082F492 /* BuildingDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FFAE5FB275141800082F492 /* BuildingDetailView.swift */; };
+		0FFAE5FE275162770082F492 /* BuildingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FFAE5FD275162770082F492 /* BuildingHeaderView.swift */; };
+		0FFAE600275165740082F492 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FFAE5FF275165740082F492 /* SourceLinkView.swift */; };
+		0FFAE6022751696E0082F492 /* BuildingInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FFAE6012751696E0082F492 /* BuildingInfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +35,10 @@
 		0FD79DE327434EE700E5A524 /* NavigatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigatorModel.swift; sourceTree = "<group>"; };
 		0FD79DE627434FD800E5A524 /* NavigatorData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigatorData.swift; sourceTree = "<group>"; };
 		0FF8D8F42746A278007267E2 /* NavigatorRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigatorRowView.swift; sourceTree = "<group>"; };
+		0FFAE5FB275141800082F492 /* BuildingDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingDetailView.swift; sourceTree = "<group>"; };
+		0FFAE5FD275162770082F492 /* BuildingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingHeaderView.swift; sourceTree = "<group>"; };
+		0FFAE5FF275165740082F492 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		0FFAE6012751696E0082F492 /* BuildingInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingInfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +95,7 @@
 				0F6D4C5F2741FAA20065182E /* QC_NavigatorApp.swift */,
 				0F6D4C612741FAA20065182E /* ContentView.swift */,
 				0F39FBDE27434B5400A60AEC /* Onboarding.swift */,
+				0FFAE5FB275141800082F492 /* BuildingDetailView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -97,6 +106,9 @@
 				0F6D4C6F2742098D0065182E /* NavigatorView.swift */,
 				0F39FBDC2743470300A60AEC /* StartButtonView.swift */,
 				0FF8D8F42746A278007267E2 /* NavigatorRowView.swift */,
+				0FFAE5FD275162770082F492 /* BuildingHeaderView.swift */,
+				0FFAE5FF275165740082F492 /* SourceLinkView.swift */,
+				0FFAE6012751696E0082F492 /* BuildingInfoView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -188,12 +200,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				0F6D4C622741FAA20065182E /* ContentView.swift in Sources */,
+				0FFAE600275165740082F492 /* SourceLinkView.swift in Sources */,
 				0F39FBDD2743470300A60AEC /* StartButtonView.swift in Sources */,
 				0F39FBDF27434B5400A60AEC /* Onboarding.swift in Sources */,
 				0FD79DE427434EE700E5A524 /* NavigatorModel.swift in Sources */,
 				0FD79DE727434FD800E5A524 /* NavigatorData.swift in Sources */,
 				0F6D4C702742098D0065182E /* NavigatorView.swift in Sources */,
+				0FFAE5FC275141800082F492 /* BuildingDetailView.swift in Sources */,
+				0FFAE5FE275162770082F492 /* BuildingHeaderView.swift in Sources */,
 				0F6D4C602741FAA20065182E /* QC_NavigatorApp.swift in Sources */,
+				0FFAE6022751696E0082F492 /* BuildingInfoView.swift in Sources */,
 				0FF8D8F52746A278007267E2 /* NavigatorRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
