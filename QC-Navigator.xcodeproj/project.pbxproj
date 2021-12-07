@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F275A172751A2D500A8E4DD /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F275A162751A2D500A8E4DD /* SettingsRowView.swift */; };
 		0F39FBDD2743470300A60AEC /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F39FBDC2743470300A60AEC /* StartButtonView.swift */; };
 		0F39FBDF27434B5400A60AEC /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F39FBDE27434B5400A60AEC /* Onboarding.swift */; };
 		0F6D4C602741FAA20065182E /* QC_NavigatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6D4C5F2741FAA20065182E /* QC_NavigatorApp.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F275A162751A2D500A8E4DD /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SettingsRowView.swift; path = "QC-Navigator/App/SettingsRowView.swift"; sourceTree = SOURCE_ROOT; };
 		0F39FBDC2743470300A60AEC /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		0F39FBDE27434B5400A60AEC /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
 		0F6D4C5C2741FAA20065182E /* QC-Navigator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "QC-Navigator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -108,6 +110,7 @@
 		0F6D4C6E2742094A0065182E /* View */ = {
 			isa = PBXGroup;
 			children = (
+				0F275A162751A2D500A8E4DD /* SettingsRowView.swift */,
 				0F6D4C6F2742098D0065182E /* NavigatorView.swift */,
 				0F39FBDC2743470300A60AEC /* StartButtonView.swift */,
 				0FF8D8F42746A278007267E2 /* NavigatorRowView.swift */,
@@ -207,6 +210,7 @@
 			files = (
 				0F6D4C622741FAA20065182E /* ContentView.swift in Sources */,
 				0FFAE600275165740082F492 /* SourceLinkView.swift in Sources */,
+				0F275A172751A2D500A8E4DD /* SettingsRowView.swift in Sources */,
 				0F39FBDD2743470300A60AEC /* StartButtonView.swift in Sources */,
 				0F39FBDF27434B5400A60AEC /* Onboarding.swift in Sources */,
 				0FD79DE427434EE700E5A524 /* NavigatorModel.swift in Sources */,
