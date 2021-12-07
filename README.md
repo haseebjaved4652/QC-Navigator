@@ -87,7 +87,7 @@ https://user-images.githubusercontent.com/47941415/139783884-2b254752-72de-495e-
 ### APP SETTINGS + APP ICON
    - The user can toggle switch button to reset the app
 
-<img src="/gifs/settings.gif" width="300" height="600">
+<img src="/gifs/setting.gif" width="300" height="600">
 
 ### BUILDING DETAIL
 
